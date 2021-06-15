@@ -5,11 +5,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-/* custom ruleset */
-.logo-lithos {
-  max-width: 500px;
-}
-
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
